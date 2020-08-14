@@ -1,0 +1,16 @@
+{
+  "name": "my-area-perimeter-kkn",
+  "version": "1.0.3",
+  "description": "my first npm module",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "npm",
+    "my-npm"
+  ],
+  "author": "K K Nirala",
+  "license": "ISC"
+}
